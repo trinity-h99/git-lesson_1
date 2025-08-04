@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ***************************************
 This is	the start of testing.txt
 ***************************************
@@ -7,3 +8,6 @@ I added this file from a new clone!
 ***************************************
 This is	the end	of testing.txt
 ***************************************
+=======
+I added this file from a new clone!
+>>>>>>> 716be0b8abe4da4ec9df8b386fc3edcd83dff74a
